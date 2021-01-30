@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Martina Monaco'
 description: null
-image: null
+image: assets/images/peridotiteTSXP.jpg
 author: null
 show_tile: false
 ---
