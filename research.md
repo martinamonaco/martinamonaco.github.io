@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research
-description: Lorem ipsum dolor est
+description: THEMES & INTERESTS
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
