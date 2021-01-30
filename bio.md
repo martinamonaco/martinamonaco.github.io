@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-image: assets/images/pic07.jpg
+image: assets/images/resume.png
 nav-menu: true
 ---
 
