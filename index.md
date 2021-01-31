@@ -8,5 +8,5 @@ author: null
 show_tile: false
 ---
 
-<p> Geodynamics & Geophysics research fellow at University of Florida <p>
+<p> <b> Geodynamics <b> & <b> Geophysics <b> research fellow at University of Florida <p>
   Find out more about my projects.
