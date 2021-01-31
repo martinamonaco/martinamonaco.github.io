@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: landing
+layout: teaching
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/perid.jpg
 nav-menu: true
