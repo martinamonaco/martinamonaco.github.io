@@ -109,7 +109,7 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: transparentize(_palette(bg-gray-200);
+					background-color: (_palette(bg-gray-200);
 				}
 			}
 
