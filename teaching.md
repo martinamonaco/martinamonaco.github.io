@@ -75,15 +75,13 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Who am I</h2>
+			<h2>Massa libero</h2>
 		</header>
-		<p><p> <b> Geodynamics </b> & <b> Geophysics </b> research fellow at <a href="http://www.ufl.edu/">University of Florida</a> for <a href="https://jdannberg-test.github.io/">Prof. J. Dannberg</a>. <p>
-  Find out more about my projects.
+		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Explore</a></li>
+			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section>
 
 </div>
-
