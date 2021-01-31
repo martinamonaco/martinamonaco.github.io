@@ -1,7 +1,7 @@
 ---
 title: Teaching
 layout: landing
-description: 'CLASSES'
+description: 'CLASSES & OUTREACH'
 image: assets/images/perid.jpg
 nav-menu: true
 ---
