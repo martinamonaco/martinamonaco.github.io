@@ -6,7 +6,8 @@ description: Unraveling the Earth's mantle dynamics.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 241 Williamson Hall, 1843 Stadium Road
+street_address: 241 Williamson Hall <br>
+1843 Stadium Road
 city: Gainesville
 state: FL
 zip_code: 32611
