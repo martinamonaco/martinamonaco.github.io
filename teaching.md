@@ -82,4 +82,8 @@ nav-menu: true
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Explore</a></li>
 		</ul>
-	
+	</div>
+</section>
+
+</div>
+
