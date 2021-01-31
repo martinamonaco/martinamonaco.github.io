@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Who am I 
+title: Home
 landing-title: 'Martina Monaco'
 description:
 image: assets/images/harz.jpg
