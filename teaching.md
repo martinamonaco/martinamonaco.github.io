@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: teaching
+layout: landing
 description: 'CLASSES'
 image: assets/images/perid.jpg
 nav-menu: true
