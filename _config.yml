@@ -3,7 +3,7 @@ title: UFL
 subtitle: RESEARCH FELLOW
 email: youremailaddress@gmail.com
 description: Unraveling the Earth's mantle dynamics.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/ufl.edu" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 241 Williamson Hall <br> 1843 Stadium Road
