@@ -11,8 +11,6 @@ street_address: <p> 241 Williamson Hall <p>
 city: Gainesville
 state: FL
 zip_code: 32611
-country: United States of America
-phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
