@@ -2,7 +2,7 @@
 layout: post
 title: Research
 description: THEMES & INTERESTS
-image: assets/images/pic11.jpg
+image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
 
