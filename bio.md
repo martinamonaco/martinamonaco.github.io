@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bio
+description: CV
 image: assets/images/resume.png
 nav-menu: true
 ---
