@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+title: Who am I 
 landing-title: 'Martina Monaco'
-description: Who am I 
+description:
 image: assets/images/harz.jpg
 author: null
 show_tile: false
