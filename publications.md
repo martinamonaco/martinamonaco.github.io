@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research
-description: THEMES & INTERESTS
+title: Publications
+description: 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
