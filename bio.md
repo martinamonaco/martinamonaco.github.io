@@ -2,7 +2,7 @@
 layout: page
 title: Bio
 description: CV
-image: assets/images/resume.png
+image: assets/images/video_image-0VrJ-_1Nr (8).jpeg
 nav-menu: true
 ---
 
