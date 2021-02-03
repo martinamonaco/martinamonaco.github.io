@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Statement</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p><br>I believe teaching to be a lifelong commitment and one of the most noble activities.<br>Equally, educating on the intricated marvels of this discipline is as much challenging as learning them.</p>
+		<p>In this section, you may find a wide breath of notes on both basic and more advanced topics, spanning a diverse range of themes concerning Geology, Geophysics, and Petrology.</p>
 	</div>
 </section>
 
