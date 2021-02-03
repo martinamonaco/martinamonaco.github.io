@@ -2,7 +2,7 @@
 layout: page
 title: Bio
 description: CV
-image: assets/images/biof2.jpg
+image: assets/images/biof.jpg
 nav-menu: true
 ---
 
