@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Bio
 description: CV
 image: assets/images/biog.jpg
