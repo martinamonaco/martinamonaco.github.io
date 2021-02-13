@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Bio
 description: CV
 image: assets/images/biog.jpg
@@ -13,12 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Curriculum Vitae</h1>
+			<h1>A quick word</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Elements</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p><br>Born and raised in Bologna, Italy, I earned a Bachelor's Degree in Geological Sciences in 2017. Later on, I pursued a Master's Degree at Sapienza University, Rome, where I graduated cum laude in Exploration Geology.<br>
+I am currently a research fellow at University of Florida, for <a href="https://jdannberg-test.github.io/">Prof. J. Dannberg</a> and <a href="http://users.clas.ufl.edu/rrusso/">Prof R. Russo</a>.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
