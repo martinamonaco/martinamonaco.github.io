@@ -17,7 +17,6 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
