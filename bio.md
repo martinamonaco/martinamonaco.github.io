@@ -17,12 +17,12 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p><br>Born and raised in Bologna, Italy, I earned a Bachelor's Degree in Geological Sciences in 2017. Later on, I pursued a Master's Degree at Sapienza University, Rome, where I graduated cum laude in Exploration Geology.<br>
-I am currently a research fellow at University of Florida, for <a href="https://jdannberg-test.github.io/">Prof. J. Dannberg</a> and <a href="http://users.clas.ufl.edu/rrusso/">Prof R. Russo</a>.</p>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p><p><br>Born and raised in Bologna, Italy, I earned a Bachelor's Degree in Geological Sciences in 2017. Later on, I pursued a Master's Degree at Sapienza University, Rome, where I graduated cum laude in Exploration Geology.<br>
+I am currently a research fellow at University of Florida, for <a href="https://jdannberg-test.github.io/">Prof. J. Dannberg</a> and <a href="http://users.clas.ufl.edu/rrusso/">Prof R. Russo</a>.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
