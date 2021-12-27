@@ -15,6 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Personal Statement</h2>
 		</header>
-		<p><br>Highly motivated, enthusiastic, organized Exploration Geologist. Currently Geology research fellow at the University of Florida.Proven track record as a resource finder both in industry and Academia. Highly skilled Geologist and Geodynamist, proficient in programming. Valuable both individually and in collaborative projects, I ama creative thinker, committed to finding original and quick solutions. My research work & my experience provideme with transversal know-hows and versatility.</p>
+		<p><br>Highly motivated, enthusiastic, organized Exploration Geologist. Currently Geology research fellow at the University of Florida.</p>
+		<p>Proven track record as a resource finder both in industry and Academia. Highly skilled Geologist and Geodynamist, proficient in programming. Valuable both individually and in collaborative projects, I am a creative thinker, committed to finding original and quick solutions. My research work & my experience provideme with transversal know-hows and versatility.</p>
 	</div>
 </section>
