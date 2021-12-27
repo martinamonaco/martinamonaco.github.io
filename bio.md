@@ -20,9 +20,7 @@ nav-menu: true
 	</div>
 </section>
 	
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<p><img src="{% link assets/images/resume_new.png %}" alt=""/>
-		</header>
+<section>
+<p><img src="{% link assets/images/resume_new.png %}" alt=""/>
+</section>
 	
