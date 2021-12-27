@@ -6,7 +6,8 @@ image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
 <!-- Two -->
-<section>
+<section id="two" class="spotlights">
+	<section>
 		<a href="generic.html" class="image">
 			<img src="{% agu_poster.png %}" alt="" data-position="top center" />
 		</a>
