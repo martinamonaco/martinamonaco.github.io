@@ -22,5 +22,6 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two">
-	<p><img src="{% link assets/images/resume_new.png %}" alt="" width = "816" height = "1066" data-position="center center"/>
+	<div class = "center">
+		<p><img src="{% link assets/images/resume_new.png %}" alt="" data-position="center"/>
 	
