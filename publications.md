@@ -10,10 +10,10 @@ nav-menu: true
 
 <h2> The segregation of recycled basaltic material within mantle plumes
  explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations </h2>
- <br>
+ <br></br>
  <i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i>
  <i> University of Florida, Gainesville </i>
-<br>
+<br></br>
 
 Mantle plumes are thought to recycle material from the Earth’s deep interior. 
 The detection of the X-discontinuity beneath some hotspots can be used to better constrain the nature and quantity of this recycled material. While the observation of the X-discontinuity, interpreted as the coesite-stishovite transition, requires the presence of high percentages (at least 40%) of eclogite-rich plume material, previous modeling studies have predicted that the percentage of high-density basaltic material that mantle plumes can carry to the surface is no higher than 15-20%.
