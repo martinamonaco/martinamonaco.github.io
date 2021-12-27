@@ -5,9 +5,6 @@ description: PROJECTS, MODELS, POSTERS
 image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
-<!-- Main -->
-<div id="main">
-	
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
