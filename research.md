@@ -9,7 +9,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% link assets/images/agu_poster.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/agu_poster.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
