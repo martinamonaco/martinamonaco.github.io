@@ -8,7 +8,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% agu_poster.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -25,7 +25,7 @@ nav-menu: true
 		</div>
 	</section>
   <section>
-		<a href="generic.html" class="image">
+		<a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image">
 			<img src="{% me_presenting_poster.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
