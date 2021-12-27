@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research
-description: THEMES & INTERESTS
+description: PROJECTS, MODELS, POSTERS
 image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
