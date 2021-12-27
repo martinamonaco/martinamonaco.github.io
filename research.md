@@ -20,7 +20,7 @@ nav-menu: true
 					<h3>AGU 2021 Poster</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
-        <p>Watch my models inside!</p>
+        <p>Follow this link to read my poster!</p>
 				<ul class="actions">
 					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" class="button">Learn more</a></li>
 				</ul>
@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AGU 2021 Spotlight Interview</h3>
 				</header>
-				<p><b>Meet me presenting my poster in two minutes</b></p>
+				<p>Ever wondered what's to know about mantle plumes and the X-Discontinuity in two minutes? Meet me presenting my poster and find out!</p>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
 				</ul>
