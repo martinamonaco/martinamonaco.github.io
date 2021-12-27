@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AGU 2021 Spotlight Interview</h3>
 				</header>
-				<p>Ever wondered what's to know about mantle plumes and the X-Discontinuity in two minutes? Meet me presenting my poster and find out!</p>
+				<p>Ever wondered what's to know about the Hawaiian mantle plume and the X-Discontinuity in two minutes? Meet me presenting my poster and find out!</p>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
 				</ul>
