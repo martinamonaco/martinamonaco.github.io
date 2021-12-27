@@ -64,7 +64,7 @@ nav-menu: true
 					<h3>The Andean Subduction Zone</h3>
 				</header>
 				<p>Plumes aren't your jam? Why not explore a subduction zone then! Find out what I've been doing to model a transect of the Andean Subduction Zone. Don't forget to watch it in <i>animation</i> mode.</p>
-				<b>Exploration Geology MSc Thesis, 2020</b></p>
+				<b>Exploration Geology MSc Thesis, 2020</b>
 				<ul class="actions">
 					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="button">Learn more</a></li>
 				</ul>
