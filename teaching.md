@@ -15,8 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Statement</h2>
 		</header>
-		<p><br>I believe teaching to be a lifelong commitment and one of the most noble activities.<br>Equally, educating on the intricated marvels of this discipline is as much challenging as learning them.</p>
-		<p>In this section, you may find a wide breath of notes on both basic and more advanced topics, spanning a diverse range of themes concerning Geology, Geophysics, and Petrology.</p>
+		<p><br>I am <i>not</i> currently scheduled to be a TA for the upcoming Spring 2022 semester. Students are nonetheless welcome to address their inquiries via email or by stopping at Room 253, Williamson Hall.</p>
 	</div>
 </section>
 
