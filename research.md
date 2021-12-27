@@ -5,6 +5,9 @@ description: PROJECTS, MODELS, POSTERS
 image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
+<!-- Main -->
+<div id="main">
+	
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -24,7 +27,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-  <section>
+  	<section>
 		<a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image">
 			<img src="{% link assets/images/me_presenting_poster.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -40,7 +43,6 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-<section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
