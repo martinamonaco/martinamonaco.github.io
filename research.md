@@ -41,17 +41,18 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="image">
+			<img src="{% link assets/images/subduction_image.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>The Andean Subduction Zone</h3>
 				</header>
-				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
+				<p>Plumes aren't your jam? Why not explore a subduction zone then! Find out what I've been doing to model a transect of the Andean Subduction Zone. Don't forget to watch it in <i>animation</i> mode.</p>
+				<b>Exploration Geology MSc Thesis, 2020</b></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
