@@ -20,6 +20,6 @@ nav-menu: true
 	</div>
 </section>
 	
-	<section id="one">
-		<p><img src="{% link assets/images/resume_new.png %}" alt="" width = "816" height = "1066" data-position="center center"/>
+<section id="one">
+	<p><img src="{% link assets/images/resume_new.png %}" alt="" width = "816" height = "1066" data-position="center center"/>
 	
