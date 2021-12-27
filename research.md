@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Research
 description: PROJECTS, MODELS, POSTERS
 image: assets/images/hawaiimagma.jpg
