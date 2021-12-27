@@ -5,7 +5,7 @@ description: PROJECTS & PUBLICATIONS
 image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
-<h2> AGU Abstract Fall Meeting 2021 <h2>
+<h2> AGU Abstract Fall Meeting 2021 </h2>
 Mantle plumes are thought to recycle material from the Earth’s deep interior. 
 The detection of the X-discontinuity beneath some hotspots can be used to better constrain the nature and quantity of this recycled material. While the observation of the X-discontinuity, interpreted as the coesite-stishovite transition, requires the presence of high percentages (at least 40\%) of eclogite-rich plume material, previous modeling studies have predicted that the percentage of high-density basaltic material that mantle plumes can carry to the surface is no higher than 15-20\%.
 
