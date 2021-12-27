@@ -10,6 +10,7 @@ nav-menu: true
 
 <h2> The segregation of recycled basaltic material within mantle plumes
  explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations </h2>
+ <br>
  <i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i>
  <i> University of Florida, Gainesville </i>
 <br>
