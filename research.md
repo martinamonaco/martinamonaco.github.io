@@ -49,7 +49,7 @@ nav-menu: true
 				<header class="major">
 					<h3>The Andean Subduction Zone</h3>
 				</header>
-				<p><b>Exploration Geology MSc Thesis, 2020</b>.</p>
+				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
