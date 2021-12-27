@@ -34,7 +34,7 @@ nav-menu: true
 				</header>
 				<p><b>Meet me presenting my poster in two minutes</b></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
