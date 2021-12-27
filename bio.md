@@ -19,7 +19,8 @@ nav-menu: true
 		<p>Proven track record as a resource finder both in industry and Academia. Highly skilled Geologist and Geodynamist, proficient in programming. Valuable both individually and in collaborative projects, I am a creative thinker, committed to finding original and quick solutions. My research work & my experience provide me with transversal know-hows and versatility.</p>
 	</div>
 </section>
-	
-<section id="one">
+
+<!-- Two -->
+<section id="two">
 	<p><img src="{% link assets/images/resume_new.png %}" alt="" width = "816" height = "1066" data-position="center center"/>
 	
