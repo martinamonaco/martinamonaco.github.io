@@ -9,7 +9,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% agu_poster.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/agu_poster.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -26,7 +26,7 @@ nav-menu: true
 	</section>
   <section>
 		<a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image">
-			<img src="{% me_presenting_poster.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/me_presenting_poster.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
