@@ -6,7 +6,7 @@ image: assets/images/hawaiimagma.jpg
 nav-menu: true
 ---
 <h1> AGU Abstract Fall Meeting 2021 </h1>
-<br></br>
+<br>
 
 <h2> The segregation of recycled basaltic material within mantle plumes
  explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations </h2>
