@@ -1,20 +1,30 @@
 ---
-layout: post
+layout: landing
 title: Publications
 description: PAPERS & TALKS
 image: assets/images/convview.jpg
 nav-menu: true
 ---
-<h1> AGU Abstract Fall Meeting 2021 </h1>
-<br>
+<!-- Main -->
+<div id="main">
+	
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<!-- <a href="https://www.agu.org/Fall-Meeting" class="image"> -->
+			<img src="{% link assets/images/screenshot-100Ma.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>AGU Abstract Fall Meeting 2021</h2>
+				</header>
+    <h3>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h3>
+    <p><i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i></p>
+    <i> University of Florida, Gainesville </i>
+    <br><p>
 
-<h2> The segregation of recycled basaltic material within mantle plumes
- explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations </h2>
- <p><i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i></p>
- <i> University of Florida, Gainesville </i>
-<br>
-
-Mantle plumes are thought to recycle material from the Earth’s deep interior. 
+<p>Mantle plumes are thought to recycle material from the Earth’s deep interior. 
 The detection of the X-discontinuity beneath some hotspots can be used to better constrain the nature and quantity of this recycled material. While the observation of the X-discontinuity, interpreted as the coesite-stishovite transition, requires the presence of high percentages (at least 40%) of eclogite-rich plume material, previous modeling studies have predicted that the percentage of high-density basaltic material that mantle plumes can carry to the surface is no higher than 15-20%.
 
 We propose this contradiction can be resolved by taking into account the length scale of chemical heterogeneities in geodynamic models. While previous modeling studies assumed     mechanical mixing on length scales smaller than the model resolution, we here present models where basaltic heterogeneities have length scales of 30 to 40 km, allowing for their   segregation relative to the pyrolitic background material within the plume. We model the ascent of the plume through the transition zone and upper mantle, and take into account    the density changes at the olivine-wadsleyite and coesite-stishovite phase transition. We vary two key parameters affecting the accumulation of basaltic material: The viscosity    within the plume, controlling the sinking velocity of the heterogeneities relative to the rising velocity of the plume; and the amount of basalt that flows in through the bottom boundary of the model, carried upwards from the lower mantle by the plume.
@@ -22,3 +32,32 @@ We propose this contradiction can be resolved by taking into account the length 
 We identify three different regimes. If the viscosity is low, the basaltic heterogeneities segregate downwards faster than the background material is rising and do not ascend with the plume. For high viscosity values, basalt does not segregate and ascends with the same velocity as the background material. For intermediate viscosity values, basaltic material cyclically accumulates and ponds both on and below the olivine-wadsleyite phase transition, reaching basalt fractions of up to 50%.
 
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, explaining seismologic detections of the X-discontinuity, and providing insights into how recycled material is carried towards the surface.
+   </div>
+   </section>
+  <section>
+		<!-- <a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image"> -->
+			<img src="{% link assets/images/2e20,12000-hefesto-annotated.0129.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>Plain Language Abstract — AGU Abstract Fall Meeting 2021</h2>
+				</header>
+    <h3>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h3>
+    <p><i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i></p>
+    <i> University of Florida, Gainesville </i>
+    <br><p>
+				<p>Mantle plumes are thought to cause hotspot magmatism. Between 250 and 350 km depth under the Hawaiian hotspot, recent seismologic studies identified a phase transition named the 'X-Discontinuity'. This feature is only observed at specific locations and is interpreted to be the result of a transformation in the quartz minerals contained in basaltic rocks.
+
+In order for the X-Discontinuity to be visible in seismologic studies, basalt fractions as high as 40\% are needed. However, previous studies found that plumes can not carry more than 15-20\% of the heavier basaltic material.
+To overcome this contradiction, we create a series of models featuring a section of the plume and the basaltic material being carried within it. In contrast to existing studies, we model individual basaltic inclusions that can move upwards or downwards with respect to the plume rather than assuming basalt is well-mixed.
+
+We find that depending on the viscosity of the plume, basaltic material can pond and accumulate around a depth of 410 km, reaching fractions of up to 50\%.
+Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, providing an explanation for the observation of the X-discontinuity.
+</p>
+			</div>
+		</div>
+	</section>
+ 
+<h1>  </h1>
+<br>
