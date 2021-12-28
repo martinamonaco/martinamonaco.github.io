@@ -11,7 +11,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<!-- <a href="https://www.agu.org/Fall-Meeting" class="image"> -->
+		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/screenshot-100Ma.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
