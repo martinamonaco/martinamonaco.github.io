@@ -32,6 +32,7 @@ We propose this contradiction can be resolved by taking into account the length 
 We identify three different regimes. If the viscosity is low, the basaltic heterogeneities segregate downwards faster than the background material is rising and do not ascend with the plume. For high viscosity values, basalt does not segregate and ascends with the same velocity as the background material. For intermediate viscosity values, basaltic material cyclically accumulates and ponds both on and below the olivine-wadsleyite phase transition, reaching basalt fractions of up to 50%.
 
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, explaining seismologic detections of the X-discontinuity, and providing insights into how recycled material is carried towards the surface.
+			</div>
    </div>
    </section>
   <section>
