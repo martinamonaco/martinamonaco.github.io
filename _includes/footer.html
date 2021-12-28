@@ -34,6 +34,14 @@
 			<section>
 				<div class = "contact-method">
 					<h3>External Sources</h3>
+					<span>
+					{% if site.linkedin_url %}
+				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+					{% if site.github_url %}
+				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% endif %}
+					</span>
 				</div>
 			</section>
 		</section>
