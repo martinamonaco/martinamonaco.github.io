@@ -3,8 +3,16 @@
 				<br>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
+					<h3>Email & Social Medias</h3>
 					<a href="https://outlook.live.com/">{{ site.email }}</a>
+					<span>
+					{% if site.linkedin_url %}
+				<a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a>
+				{% endif %}
+					{% if site.github_url %}
+				<a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
+				{% endif %}
+					</span>
 				</div>
 	
 			</section>
@@ -28,20 +36,6 @@
 					{% if site.country %}
 					    {{ site.country }}
 					{% endif %}
-					</span>
-				</div>
-			</section>
-			<section>
-				<div class ="contact-method">
-					<i class ="icon alt fa fa-user-circle" aria-hidden="true"></i>
-					<h3>External Sources</h3>
-					<span>
-					{% if site.linkedin_url %}
-				<a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a>
-				{% endif %}
-					{% if site.github_url %}
-				<a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a>
-				{% endif %}
 					</span>
 				</div>
 			</section>
