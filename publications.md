@@ -33,8 +33,8 @@ We identify three different regimes. If the viscosity is low, the basaltic heter
 
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, explaining seismologic detections of the X-discontinuity, and providing insights into how recycled material is carried towards the surface.
 			</div>
-   </div>
-   </section>
+   		</div>
+   	</section>
   <section>
 		<!-- <a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image"> -->
 			<img src="{% link assets/images/2e20,12000-hefesto-annotated.0129.png %}" alt="" data-position="top center" />
