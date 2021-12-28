@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Statement</h2>
 		</header>
-		<p><br>I am <i>not</i> currently scheduled to be a TA for the upcoming Spring 2022 semester. Students are nonetheless welcome to address their inquiries via email or stop by Room 253, Williamson Hall.</p>
+		<p><br>I am currently <i>not</i> scheduled as a TA for the upcoming Spring 2022 semester. Students are nonetheless welcome to address their inquiries via email or stop by Room 253, Williamson Hall.</p>
 	</div>
 </section>
 
