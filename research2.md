@@ -20,7 +20,7 @@ nav-menu: true
 				<br><p></p>
 		<p><br>Follow this link to read the manuscript preprint</p>
 		<ul class="actions">
-					<li><a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512065.1" class="button">Supplementary Material</a></li>
+					<li><a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512065.1" class="button">Preprint</a></li>
 				</ul>
 		
 		<p>Follow this link to the Supplementary Material of the paper</p>
