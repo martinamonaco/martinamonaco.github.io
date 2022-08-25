@@ -102,9 +102,6 @@ Our models show how larger fractions of basaltic material than previously though
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
 				</ul>
-			</div>
-		</div>
-	</section>
 			<!-- </div>
 		</div>
 	</section> -->
