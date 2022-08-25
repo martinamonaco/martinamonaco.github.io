@@ -13,6 +13,8 @@ nav-menu: true
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="top center" />
+		</a>
+		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
