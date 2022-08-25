@@ -99,7 +99,7 @@ Our models show how larger fractions of basaltic material than previously though
 				<header class="major">
 					<h3>Plain Language Summary</h3>
 				</header>
-				<p>>Mantle plumes are thought to cause hotspot magmatism. Between 250 and 350 km depth under the Hawaiian hotspot, recent seismologic studies identified a phase transition named the 'X-Discontinuity'. This feature is only observed at specific locations and is interpreted to be the result of a transformation in the quartz minerals contained in basaltic rocks.
+				<p>Mantle plumes are thought to cause hotspot magmatism. Between 250 and 350 km depth under the Hawaiian hotspot, recent seismologic studies identified a phase transition named the 'X-Discontinuity'. This feature is only observed at specific locations and is interpreted to be the result of a transformation in the quartz minerals contained in basaltic rocks.
 
 In order for the X-Discontinuity to be visible in seismologic studies, basalt fractions as high as 40% are needed. However, previous studies found that plumes can not carry more than 15-20% of the heavier basaltic material.
 To overcome this contradiction, we create a series of models featuring a section of the plume and the basaltic material being carried within it. In contrast to existing studies, we model individual basaltic inclusions that can move upwards or downwards with respect to the plume rather than assuming basalt is well-mixed.
@@ -112,20 +112,4 @@ Our models show how larger fractions of basaltic material than previously though
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="image">
-			<img src="{% link assets/images/subduction_image.png %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>The Andean Subduction Zone</h3>
-				</header>
-				<p>Plumes aren't your jam? Why not explore a subduction zone then! Find out what I've been doing to model a transect of the Andean Subduction Zone. Don't forget to watch the presentation in <i>animation</i> mode.</p>
-				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
-				<ul class="actions">
-					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="button">Learn more</a></li>
-				</ul>
-			<!-- </div>
-		</div>
 	</section> -->
