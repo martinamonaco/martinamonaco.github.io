@@ -42,9 +42,7 @@ Our preliminary results show that, in the range of plume excess temperatures bet
 Our models suggest that mantle plumes have the potential to accumulate higher percentages of denser material than previously thought. 
 These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
         <p>Follow this link to read and download my new poster!</p>
-				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
-				</ul>
+				
 			</div>
 		</div>
 	</section>
