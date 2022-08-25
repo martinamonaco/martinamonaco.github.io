@@ -21,7 +21,7 @@ nav-menu: true
 				</header>
     				<h3>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</h3>
     				<p><i> <b>Martina Monaco ¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
-    				<i>¹ University of Florida, Gainesville, US </i><br><\br>
+    				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK<\i>
     				<br><p>
 <p>Mantle plumes have a widely known role in recycling materials from the deep Earth, but the quantities of the latter are not well constrained. Important indications come from seismic discontinuities like the X-discontinuity, which is particularly apparent around 300 km depth beneath the Hawaiian hotspot and is interpreted to be the coesite—stishovite phase transition. Seismological observations argue that, for the X-discontinuity to be observed, 40% or more eclogitic-rich recycled material needs to be present. However, classical geodynamics studies indicate that a mantle plume can only carry up to 15-20% denser recycled material to the surface, in order to maintain the necessary positive buoyancy to rise.
