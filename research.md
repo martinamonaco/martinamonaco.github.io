@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://www.agu.org/Fall-Meeting" class="image">
+		<a href="[https://www.agu.org/Fall-Meeting](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html)" class="image">
 			<img src="{% link assets/images/alw_poster_online.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -30,10 +30,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Ada Lovelace Workshop 2022</h3>
 				</header>
-				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
-        <p>Follow this link to read my poster!</p>
+				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
+	<p>The investigation on the potential for recycled material entrainment in the mid-upper mantle continues with new, whole-plume models</p>
+        <p>Follow this link to read my new poster!</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
