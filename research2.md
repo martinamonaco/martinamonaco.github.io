@@ -27,9 +27,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ada Lovelace Workshop 2022</h3>
+					<h3>Ada Lovelace Workshop 2022 — Abstract</h3>
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
+				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+    				<i>¹ University of Florida, Gainesville, US </i><br>
+				<i>² University of Cambridge, UK</i>
+    				<br>
 	<p>Mantle plumes have a widely known role in recycling materials from the deep Earth, but the quantities of the latter are not well constrained. Important indications come from seismic discontinuities like the X-discontinuity, which is particularly apparent around 300 km depth beneath the Hawaiian hotspot and is interpreted to be the coesite—stishovite phase transition. Seismological observations argue that, for the X-discontinuity to be observed, 40% or more eclogitic-rich recycled material needs to be present. However, classical geodynamics studies indicate that a mantle plume can only carry up to 15-20% denser recycled material to the surface, in order to maintain the necessary positive buoyancy to rise.
 
 To resolve this controversy, we run two different sets of 2D geodynamics numerical models employing the mantle convection code ASPECT. In our first series, we model the recycled material within the plume conduit in the form of discrete heterogeneities with diameters of 30—40 km, such that they do not mix with the background pyrolite and material segregation is allowed. Depending on the background viscosity, we observe three regimes. For its lowest values, the heterogeneities are too dense to be entrained: basalt segregation is therefore directed downwards and no accumulation is attained. Conversely, at the highest viscosity values, the heterogeneities rise together with the background. For intermediate viscosities, we detect cyclical ponding and material accumulation around and above the 410 km depth global discontinuity, with occasional peaks up to 40-50% recycled material.
