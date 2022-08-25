@@ -7,15 +7,12 @@ nav-menu: true
 ---
 <!-- Main -->
 <div id="main">
-	
+
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="top center" />
-		</a>
-		<br>
-		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -38,13 +35,10 @@ Our preliminary results show that, in the range of plume excess temperatures bet
 
 Our models suggest that mantle plumes have the potential to accumulate higher percentages of denser material than previously thought. 
 These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
-				</div>
+			</div>
 		</div>
 	</section>
-	<section>
-
-
-<section id="two" class="spotlights">
+	
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/screenshot-100Ma.png %}" alt="" data-position="left" />
