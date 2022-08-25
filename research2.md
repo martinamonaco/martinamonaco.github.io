@@ -97,9 +97,15 @@ Our models show how larger fractions of basaltic material than previously though
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AGU 2021 Spotlight Interview</h3>
+					<h3>Plain Language Summary</h3>
 				</header>
-				<p>Ever wondered what's to know about the Hawaiian mantle plume and the X-Discontinuity in two minutes? Meet me highlight the main takeaways of my poster and find out!</p>
+				<p>>Mantle plumes are thought to cause hotspot magmatism. Between 250 and 350 km depth under the Hawaiian hotspot, recent seismologic studies identified a phase transition named the 'X-Discontinuity'. This feature is only observed at specific locations and is interpreted to be the result of a transformation in the quartz minerals contained in basaltic rocks.
+
+In order for the X-Discontinuity to be visible in seismologic studies, basalt fractions as high as 40% are needed. However, previous studies found that plumes can not carry more than 15-20% of the heavier basaltic material.
+To overcome this contradiction, we create a series of models featuring a section of the plume and the basaltic material being carried within it. In contrast to existing studies, we model individual basaltic inclusions that can move upwards or downwards with respect to the plume rather than assuming basalt is well-mixed.
+
+We find that depending on the viscosity of the plume, basaltic material can pond and accumulate around a depth of 410 km, reaching fractions of up to 50%.
+Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, providing an explanation for the observation of the X-discontinuity.</p>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
 				</ul>
