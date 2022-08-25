@@ -14,8 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h2>
 		</header>
-		<p><br>The Earth's mantle is the thickest yet the most enigmatic layer of our planet. Mantle xenoliths and some parts of ophiolites surely are great help, but what about the unfolded huge remainder?</p>
-		<p>We can only rely on two methods to tackle such a complexity and shed a light on the mantle dynamics. One is deep seismology, the other is <i>geodynamics modeling</i>. Find out what I do below.</p>
+		<p><br>tryout</p>
 	</div>
 </section>
 	
@@ -45,7 +44,6 @@ Our preliminary results show that, in the range of plume excess temperatures bet
 
 Our models suggest that mantle plumes have the potential to accumulate higher percentages of denser material than previously thought. 
 These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
-        <p>Follow this link to read and download my new poster!</p>
 				<ul class="actions">
 					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
 				</ul>
@@ -59,7 +57,7 @@ These results also provide a viable mechanism to explain the regional appearance
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AGU Fall Meeting 2021 — Abstract</h3>
+					<h3>AGU Fall Meeting 2021</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
 				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹</i></p>
@@ -86,7 +84,7 @@ Our models show how larger fractions of basaltic material than previously though
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AGU Fall Meeting 2021 — Plain Language Abstract</h3>
+					<h3>Plain Language</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
 				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹</i></p>
@@ -101,6 +99,23 @@ We find that depending on the viscosity of the plume, basaltic material can pond
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, providing an explanation for the observation of the X-discontinuity.</p>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="image">
+			<img src="{% link assets/images/subduction_image.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Andean Subduction Zone</h3>
+				</header>
+				<p>Plumes aren't your jam? Why not explore a subduction zone then! Find out what I've been doing to model a transect of the Andean Subduction Zone. Don't forget to watch the presentation in <i>animation</i> mode.</p>
+				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
+				<ul class="actions">
+					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="button">Learn more</a></li>
 				</ul>
 			<!-- </div>
 		</div>
