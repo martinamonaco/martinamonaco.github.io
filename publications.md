@@ -17,7 +17,23 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>AGU Abstract Fall Meeting 2021</h2>
+					<h2>ALW 2022 — Abstract</h2>
+				</header>
+    				<h3>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h3>
+    				<p><i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i></p>
+    				<i> University of Florida, Gainesville </i>
+    				<br><p>
+
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="https://www.agu.org/Fall-Meeting" class="image">
+			<img src="{% link assets/images/screenshot-100Ma.png %}" alt="" data-position="left" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>AGU Fall Meeting 2021 — Abstract </h2>
 				</header>
     				<h3>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h3>
     				<p><i> <b>Martina Monaco</b>, Juliane Dannberg, Rene Gassmöller</i></p>
