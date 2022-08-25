@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="[https://www.agu.org/Fall-Meeting](https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html)" class="image">
+		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
 			<img src="{% link assets/images/alw_poster_online.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
