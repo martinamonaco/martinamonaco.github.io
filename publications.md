@@ -33,7 +33,7 @@ These regional models feature a background mantle — made up of 82% harzburgite
 Our preliminary results show that, in the range of plume excess temperatures between 200—300 K, the plume can still rise with up to 30% recycled basaltic material in the whole model, provided that it is hot enough to counterbalance the increased density. 
 
 Our models suggest that mantle plumes have the potential to accumulate higher percentages of denser material than previously thought. 
-These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.<\p>
+These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
 
 
 <section id="two" class="spotlights">
