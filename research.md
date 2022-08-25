@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
 	<p>The investigation on the potential for recycled material entrainment in the mid-upper mantle continues with new, whole-plume models</p>
-        <p>Follow this link to read my new poster!</p>
+        <p>Follow this link to read and download my new poster!</p>
 				<ul class="actions">
 					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
 				</ul>
@@ -43,7 +43,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% link assets/images/AGU_poster_Martina_Monaco (5).pdf %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/agu_2021_png.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
