@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% link assets/images/agu_poster.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/AGU_poster_Martina_Monaco(5).pdf %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
