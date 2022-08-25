@@ -15,7 +15,7 @@ nav-menu: true
 			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="left" />
 		</a>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="left" />
+			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="left" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
