@@ -40,7 +40,7 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
 				</div>
 		</div>
-	</section> -->
+	</section>
 	<section>
 
 
