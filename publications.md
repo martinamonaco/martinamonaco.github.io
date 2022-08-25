@@ -20,7 +20,7 @@ nav-menu: true
 					<h2>ALW 2022 — Abstract</h2>
 				</header>
     				<h3>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</h3>
-    				<p><i> <b>Martina Monaco ¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+    				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
     				<br><p>
