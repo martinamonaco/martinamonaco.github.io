@@ -1,8 +1,8 @@
 ---
 layout: landing
-title: Research
-description: PROJECTS, MODELS, POSTERS
-image: assets/images/hawaiimagma.jpg
+title: Publications
+description: PAPERS & TALKS
+image: assets/images/convview.jpg
 nav-menu: true
 ---
 <!-- Main -->
