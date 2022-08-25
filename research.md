@@ -46,7 +46,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AGU 2021 Poster</h3>
+					<h3>AGU Fall Meeting 2021</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
         <p>Follow this link to read my poster!</p>
