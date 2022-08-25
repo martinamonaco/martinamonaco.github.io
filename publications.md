@@ -12,7 +12,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% link assets/images/screenshot-100Ma.png %}" alt="" data-position="left" />
+			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="left" />
 		</a>
 		<div class="content">
 			<div class="inner">
