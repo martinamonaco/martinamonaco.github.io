@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Geodynamical Modeling</h2>
+			<h2>Geodynamics Modeling</h2>
 		</header>
 		<p><br>The Earth's mantle is the thickest yet the most enigmatic layer of our planet. Mantle xenoliths and some parts of ophiolites surely are great help, but what about the unfolded huge remainder?</p>
 		<p>We can only rely on two methods to tackle such a complexity and shed a light on the mantle dynamics. One is deep seismology, the other is <i>geodynamical modeling</i>. Find out what I do below.</p>
@@ -20,6 +20,25 @@ nav-menu: true
 </section>
 	
 <!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="https://www.agu.org/Fall-Meeting" class="image">
+			<img src="{% link assets/images/alw_poster_online.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ada Lovelace Workshop 2022</h3>
+				</header>
+				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
+        <p>Follow this link to read my poster!</p>
+				<ul class="actions">
+					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+  	<section>
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
