@@ -19,6 +19,10 @@ nav-menu: true
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
 		<p><br>tryout</p>
+		<p>Follow this link to the Supplementary Material of the paper</p>
+				<ul class="actions">
+					<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" class="button">Supplementary Material</a></li>
+				</ul>
 	</div>
 </section>
 	
