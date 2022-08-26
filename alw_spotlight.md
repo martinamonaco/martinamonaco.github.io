@@ -2,7 +2,7 @@
 layout: landing
 title: Ada Lovelace 2022 Spotlight
 description: MODEL ANIMATIONS
-image: assets/images/alw_poster_online.png
+image: assets/images/alw_plume.png
 nav-menu: true
 show_tile: false
 ---
