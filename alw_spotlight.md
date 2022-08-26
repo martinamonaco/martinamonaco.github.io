@@ -1,8 +1,8 @@
 ---
 layout: landing
 title: Ada Lovelace 2022 Spotlight
-description: PROJECTS, MODELS, POSTERS
-image: assets/images/hawaiimagma.jpg
+description: MODEL ANIMATIONS
+image: animation_ALW (1).gif
 nav-menu: true
 ---
 <!-- Main -->
