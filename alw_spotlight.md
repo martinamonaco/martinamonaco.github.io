@@ -13,23 +13,22 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Geodynamics Modeling</h2>
+			<h2>Model Animations</h2>
 		</header>
-		<p><br>The Earth's mantle is the thickest yet the most enigmatic layer of our planet. Mantle xenoliths and some parts of ophiolites surely are great help, but what about the unfolded huge remainder?</p>
-		<p>We can only rely on two methods to tackle such a complexity and shed a light on the mantle dynamics. One is deep seismology, the other is <i>geodynamics modeling</i>. Find out what I do below.</p>
+		<p><br>Below you'll see the model animations shown in my poster. Please feel free to inquire via email or in person.</p>
 	</div>
 </section>
 	
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
-			<img src="{% link assets/images/alw_poster_online.png %}" alt="" data-position="top center" />
+		<a href="" class="image">
+			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Ada Lovelace Workshop 2022</h3>
+					<h3>Segregation Models</h3>
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
 	<p>The investigation on the potential for recycled material entrainment in the mid-upper mantle continues with new, whole-plume models</p>
