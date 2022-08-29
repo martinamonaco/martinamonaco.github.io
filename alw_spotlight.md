@@ -79,7 +79,6 @@ show_tile: false
 					<h3>Mixing Models</h3>
 				</header>
 				<p>300 K excess temperature, 12% excess plume basalt, mantle composition: 18% basalt, 82% harzburgite</p>
-				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
 				<ul class="actions">
 					<li><a href="https://drive.google.com/file/d/1bMDQX2vrFIGvInowm_kMTT0FfoPott7J/view?usp=sharing" class="button">More Models</a></li>
 				</ul>
