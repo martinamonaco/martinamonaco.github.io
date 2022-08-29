@@ -30,42 +30,39 @@ show_tile: false
 				<header class="major">
 					<h3>Segregation Models</h3>
 				</header>
-				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
-	<p>The investigation on the potential for recycled material entrainment in the mid-upper mantle continues with new, whole-plume models</p>
-        <p>Follow this link to read and download my new poster!</p>
+	<p>100 series, sinking regime, NO X-discontinuity.</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
-			<img src="{% link assets/images/agu_2021_png.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AGU Fall Meeting 2021</h3>
+					<h3>Segregation Models</h3>
 				</header>
-				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
-        <p>Follow this link to read my poster!</p>
+        <p>100 Series, mixed regime, NO X-discontinuity</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
   	<section>
-		<a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image">
-			<img src="{% link assets/images/me_presenting_poster.jpg %}" alt="" data-position="top center" />
+		<a href="" class="image">
+			<img src="{% link assets/images/m5_gif.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>AGU 2021 Spotlight Interview</h3>
+					<h3>Segregation Models</h3>
 				</header>
-				<p>Ever wondered what's to know about the Hawaiian mantle plume and the X-Discontinuity in two minutes? Meet me highlight the main takeaways of my poster and find out!</p>
+				<p>Aoki Series, mixed regime, X-discontinuity (see discoloration in basaltic material)</p>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button">Learn more</a></li>
 				</ul>
@@ -73,18 +70,18 @@ show_tile: false
 		</div>
 	</section>
 	<section>
-		<a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="image">
-			<img src="{% link assets/images/subduction_image.png %}" alt="" data-position="center center" />
+		<a href="" class="image">
+			<img src="{% link assets/images/animation_ALW.gif %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Andean Subduction Zone</h3>
+					<h3>Mixing Models</h3>
 				</header>
-				<p>Plumes aren't your jam? Why not explore a subduction zone then! Find out what I've been doing to model a transect of the Andean Subduction Zone. Don't forget to watch the presentation in <i>animation</i> mode.</p>
+				<p>300 K excess temperature, 12% excess plume basalt, mantle composition: 18% basalt, 82% harzburgite</p>
 				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
 				<ul class="actions">
-					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="" class="button">Learn more</a></li>
 				</ul>
 			<!-- </div>
 		</div>
