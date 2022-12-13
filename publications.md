@@ -34,7 +34,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
-			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/new_composite_website.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
