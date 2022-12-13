@@ -91,6 +91,7 @@ These results also provide a viable mechanism to explain the regional appearance
 			</div>
 		</div>
 	</section>
+	<section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/agu_2021_png.png %}" alt="" data-position="top center" />
