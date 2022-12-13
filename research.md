@@ -22,6 +22,24 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/poster_agu_2022.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>AGU Fall Meeting 2022</h3>
+				</header>
+				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity inthe upper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
+	<p>New findings on the potential for recycled material entrainment in the mid-upper mantle beneath the Hawaiian hotspot</p>
+        <p>Follow this link to read and download my new poster!</p>
+				<ul class="actions">
+					<li><a href="https://drive.google.com/file/d/1hfTBhL2sjZjTCTu5t3njyZA59WBZnpYT/view?usp=share_link" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
 			<img src="{% link assets/images/alw_poster_online.png %}" alt="" data-position="top center" />
 		</a>
