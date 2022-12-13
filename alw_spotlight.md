@@ -53,6 +53,22 @@ show_tile: false
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/ms7_gif.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Segregation Models</h3>
+				</header>
+	<p>Hefesto series, sinking regime, NO X-discontinuity.</p>
+				<ul class="actions">
+					<li><a href="https://drive.google.com/drive/folders/1lZ_yK6I-ux3nRsoIkEP4rpE_IeVUWU2v?usp=sharing" class="button">More Models</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
   	<section>
 		<a href="" class="image">
 			<img src="{% link assets/images/m5_gif.gif %}" alt="" data-position="top center" />
