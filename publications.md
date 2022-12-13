@@ -126,7 +126,7 @@ Our models show how larger fractions of basaltic material than previously though
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Plain Language Summary</h3>
+					<h3>Plain Language Summary — AGU Fall Meeting Abstract 2021</h3>
 				</header>
 				<p>Mantle plumes are thought to cause hotspot magmatism. Between 250 and 350 km depth under the Hawaiian hotspot, recent seismologic studies identified a phase transition named the 'X-Discontinuity'. This feature is only observed at specific locations and is interpreted to be the result of a transformation in the quartz minerals contained in basaltic rocks.
 
