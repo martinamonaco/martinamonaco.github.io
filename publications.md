@@ -32,16 +32,16 @@ nav-menu: true
 	
 <!-- Two -->
 <section id="two" class="spotlights">
-<section>
-	<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
+	<section>
+		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
 			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
-	</a>
-	<div class="content">
-		<div class="inner">
-			<header class="major">
-				<h3>AGU Fall Meeting 2022 — Abstract</h3>
-			</header>
-			<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>AGU Fall Meeting 2022 — Abstract</h3>
+				</header>
+				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
 			<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
     			<i>¹ University of Florida, Gainesville, US </i><br>
 			<i>² University of Cambridge, UK</i>
@@ -58,9 +58,8 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 			</div>
 		</div>
 	</section>
-
-<section id="two" class="spotlights">
 	<section>
+	
 		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
 			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
 		</a>
@@ -91,7 +90,6 @@ These results also provide a viable mechanism to explain the regional appearance
 			</div>
 		</div>
 	</section>
-	<section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/agu_2021_png.png %}" alt="" data-position="top center" />
