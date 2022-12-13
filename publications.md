@@ -31,6 +31,33 @@ nav-menu: true
 </section>
 	
 <!-- Two -->
+	<section id="two" class="spotlights">
+	<section>
+		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
+			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>AGU Fall Meeting 2022 — Abstract</h3>
+				</header>
+				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
+				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+    				<i>¹ University of Florida, Gainesville, US </i><br>
+				<i>² University of Cambridge, UK</i>
+				<br><p></p>
+	<p>Mantle plumes have a widely known role in recycling materials, but the quantities of the latterare not well constrained. Important indications come from seismic discontinuities like the X-discontinuity, interpreted as the coesite—stishovite phase transition, and clearly detectedaround 300 km depth beneath the Hawaiian hotspot. Seismology indicates that, for the X-discontinuity to be observed, 40% or more eclogite needs to be present. However, classicalgeodynamics studies predict that plumes can only carry up to 15-20% denser basalt to thesurface.
+To resolve this controversy, we run two sets of 2D geodynamics numerical models. Our fi rstseries features the recycled material in the plume conduit as discrete heterogeneities withdiameters of 30-40 km, such that they do not mix with the background pyrolite and materialsegregation is allowed. Depending on the background viscosity, we observe three regimes. Forits lowest values, the heterogeneities are too dense to be entrained: basalt segregation isdirected downwards and no accumulation is present. At the highest viscosities, theheterogeneities rise together with the background. For intermediate viscosities, we detectcyclical ponding and material accumulation around and above the 410 km depth discontinuity,with occasional peaks up to 40-50% recycled material.
+To explore the effect of the entrained basalt on plume dynamics we extend our models, nowassuming mixing between the mantle and the recycled material. We also overcome limitationsof our previous study by accounting for the energy balance, allowing the plume velocity todevelop dynamically and the plume to spread laterally. These regional models feature abackground mantle — made up of 82% harzburgite and 18% basalt — and mantle plumes with1-15% additional basalt. Our preliminary results show that, in the range of plume excesstemperatures between 200—300 K, the plume can still rise with up to 30% recycled basalticmaterial in the whole model, provided that it is hot enough to counterbalance the increaseddensity.
+Our models suggest that mantle plumes have the potential to accumulate higher percentagesof denser material than previously thought. These results also provide a viable mechanism toexplain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
+        <p>Follow this link to read and download my new poster!</p>
+				<ul class="actions">
+					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
