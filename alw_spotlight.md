@@ -1,8 +1,8 @@
 ---
 layout: landing
-title: Ada Lovelace 2022 Spotlight
+title: AGU 2022 Spotlight
 description: MODEL ANIMATIONS
-image: assets/images/alw_plume.png
+image:
 nav-menu: true
 show_tile: false
 ---
