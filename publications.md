@@ -53,7 +53,7 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
         
 			<p>Follow this link to read and download my new poster!</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" class="button">Learn more</a></li>
+					<li><a href="https://drive.google.com/file/d/1hfTBhL2sjZjTCTu5t3njyZA59WBZnpYT/view?usp=share_link" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
