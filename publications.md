@@ -10,7 +10,6 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<section>
 	<div class="inner">
 		<header class="major">
 			<h2>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations — Preprint</h2>
