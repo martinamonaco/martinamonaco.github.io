@@ -12,22 +12,21 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h2>
+			<h2>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations — Preprint</h2>
 		</header>
-		<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+		<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
-		<p><br>Follow this link to read the manuscript preprint</p>
-		<ul class="actions">
-					<li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></li>
-				</ul>
+				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
+		<p><br>Cite this manuscript preprint</p>
+		<ul class="actions"> <li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></li></ul>
 		
 		<p>Follow this link to the Supplementary Material of the paper</p>
 				<ul class="actions">
 					<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" target="_blank" class="button">Supplementary Material</a></li>
 				</ul>
-		<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
+
 	</div>
 </section>
 	
