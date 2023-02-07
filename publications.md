@@ -21,8 +21,8 @@ nav-menu: true
 				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
 		<div class = "row">
 			<div class="6u 12u$(small)">
-			<h4>Cite this preprint</h4>
-			<h4>View the data package</h4>
+			<p>Cite this preprint</p>
+			<p>View the data package</p>
 		</div>
 		<div class = "row">
 			<div class="6u 12u$(small)">
@@ -31,6 +31,7 @@ nav-menu: true
 			<ul class="actions">
 				<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" target="_blank" class="button">Supplementary Material</a></li></ul>
 		</div>
+	</div>
 
 	
 <!-- Two -->
