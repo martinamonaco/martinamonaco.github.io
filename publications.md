@@ -20,12 +20,12 @@ nav-menu: true
 				<br><p></p>
 		<p><br>Follow this link to read the manuscript preprint</p>
 		<ul class="actions">
-					<li><a href="https://www.essoar.org/doi/abs/10.1002/essoar.10512065.1" class="button">Preprint</a></li>
+					<li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></li>
 				</ul>
 		
 		<p>Follow this link to the Supplementary Material of the paper</p>
 				<ul class="actions">
-					<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" class="button">Supplementary Material</a></li>
+					<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" target="_blank" class="button">Supplementary Material</a></li>
 				</ul>
 	</div>
 </section>
