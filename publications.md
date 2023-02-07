@@ -19,8 +19,8 @@ nav-menu: true
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
 				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
-		<p>Cite this manuscript preprint</p>
-		<ul class="actions"> <li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></li></ul>
+		<p><br>Cite this manuscript preprint
+		<ul class="actions"> <li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></li></ul></p>
 		
 		<p>Follow this link to the Supplementary Material of the paper</p>
 				<ul class="actions">
@@ -33,8 +33,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
-			<img src="{% link assets/images/new_composite_website.png %}" alt="" data-position="top center" />
+		<a href="https://www.agu.org/Fall-Meeting" class="image">
+			<img src="{% link assets/images/new_composite_website.png %}" alt="" data-position="top left" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -42,7 +42,7 @@ nav-menu: true
 					<h3>AGU Fall Meeting 2022 — Abstract</h3>
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
-			<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+			<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i>
     			<i>¹ University of Florida, Gainesville, US </i><br>
 			<i>² University of Cambridge, UK</i>
 			<br><p></p>
@@ -69,7 +69,7 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 					<h3>Ada Lovelace Workshop 2022 — Abstract</h3>
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
-				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
@@ -100,9 +100,8 @@ These results also provide a viable mechanism to explain the regional appearance
 					<h3>AGU Fall Meeting 2021</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
-				<p><i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i></p>
+				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹</i>
     				<i>¹ University of Florida, Gainesville, US </i><br>
-				<i>² University of Cambridge, UK</i>
 				<br><p></p>
         <p>Mantle plumes are thought to recycle material from the Earth’s deep interior. The detection of the X-discontinuity beneath some hotspots can be used to better constrain the nature and quantity of this recycled material. While the observation of the X-discontinuity, interpreted as the coesite-stishovite transition, requires the presence of high percentages (at least 40%) of eclogite-rich plume material, previous modeling studies have predicted that the percentage of high-density basaltic material that mantle plumes can carry to the surface is no higher than 15-20%.
 
