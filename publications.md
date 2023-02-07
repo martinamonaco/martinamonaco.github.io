@@ -42,7 +42,7 @@ nav-menu: true
 					<h3>AGU Fall Meeting 2022 — Abstract</h3>
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
-			<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i>
+			<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i><br>
     			<i>¹ University of Florida, Gainesville, US </i><br>
 			<i>² University of Cambridge, UK</i>
 			<br><p></p>
@@ -69,7 +69,7 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 					<h3>Ada Lovelace Workshop 2022 — Abstract</h3>
 				</header>
 				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b></p>
-				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i>
+				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i><br>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
@@ -100,7 +100,7 @@ These results also provide a viable mechanism to explain the regional appearance
 					<h3>AGU Fall Meeting 2021</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
-				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹</i>
+				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹</i><br>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<br><p></p>
         <p>Mantle plumes are thought to recycle material from the Earth’s deep interior. The detection of the X-discontinuity beneath some hotspots can be used to better constrain the nature and quantity of this recycled material. While the observation of the X-discontinuity, interpreted as the coesite-stishovite transition, requires the presence of high percentages (at least 40%) of eclogite-rich plume material, previous modeling studies have predicted that the percentage of high-density basaltic material that mantle plumes can carry to the surface is no higher than 15-20%.
