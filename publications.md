@@ -20,7 +20,6 @@ nav-menu: true
 				<br><p></p>
 				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
 		<div class = "row">
-			<div class="6u 12u$(small)">
 			<p>Cite this preprint</p>
 			<p>View the data package</p>
 		</div>
