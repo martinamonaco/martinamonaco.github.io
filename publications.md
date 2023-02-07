@@ -19,7 +19,7 @@ nav-menu: true
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
 				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
-		<p>Cite this preprint class="actions" <a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></p>
+		<p>Cite this preprint <ul class="actions"> <a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button">Preprint</a></ul></p>
 		
 		<p>Follow this link to the Supplementary Material of the paper</p>
 				<ul class="actions">
