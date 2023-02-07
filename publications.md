@@ -33,7 +33,6 @@ nav-menu: true
 		</div>
 	</div>
 
-</section>
 	
 <!-- Two -->
 <section id="two" class="spotlights">
