@@ -23,6 +23,13 @@ nav-menu: true
 			<p>Cite this preprint</p>
 			<p>View the data package</p>
 		</div>
+		<div class = "row">
+			<div class="6u 12u$(small)">
+			<ul class="actions"> 
+				<li> <a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button special">Preprint</a></li></ul>
+			<ul class="actions">
+				<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" target="_blank" class="button">Supplementary Material</a></li></ul>
+		</div>
 		
 	</div>
 </section>
