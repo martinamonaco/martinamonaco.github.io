@@ -21,6 +21,7 @@ nav-menu: true
 				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe>
 		<div class = "row">
 			<p>Cite this preprint</p>
+			<div class="6u 12u$(small)">
 			<ul class="actions"> 
 				<li> <a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button special">Preprint</a></li></ul>
 			<p>View the data package</p>
