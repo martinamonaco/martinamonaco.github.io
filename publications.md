@@ -89,8 +89,8 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
         
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1CMh_J2Eb10UeTTrgmdtpXKqNuLxqX0-e/view?usp=sharing" target = "_blank" class="button special">View Poster</a></li>
 					<li><a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/conference-booklet.pdf" target="_blank" class="button special">Cite</a></li>
+					<li><a href="https://drive.google.com/file/d/1CMh_J2Eb10UeTTrgmdtpXKqNuLxqX0-e/view?usp=sharing" target = "_blank" class="button special">View Poster</a></li>
 				</ul>
 			</div>
 		</div>
@@ -117,8 +117,8 @@ We identify three different regimes. If the viscosity is low, the basaltic heter
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, explaining seismologic detections of the X-discontinuity, and providing insights into how recycled material is carried towards the surface.</p>
 				
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" target="_blank" class="button special">View Poster</a></li>
 					<li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C1fAD8cAAAAJ&citation_for_view=C1fAD8cAAAAJ:u5HHmVD_uO8C" target ="_blank" class = "button special">Cite</a></li>
+					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" target="_blank" class="button special">View Poster</a></li>
 				</ul>
 			</div>
 		</div>
