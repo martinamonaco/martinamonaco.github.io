@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: AGU 2022 Spotlight
+title: Models Spotlight
 description: MODEL ANIMATIONS
 image:
 nav-menu: true
@@ -15,7 +15,6 @@ show_tile: false
 		<header class="major">
 			<h2>Model Animations</h2>
 		</header>
-		<p><br>Below you'll see the model animations shown in my poster. Please feel free to inquire via email or in person.</p>
 	</div>
 </section>
 	
@@ -32,7 +31,7 @@ show_tile: false
 				</header>
 	<p>100 series, sinking regime, NO X-discontinuity.</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" class="button">More Models</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank" class="button special">More Models</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +47,7 @@ show_tile: false
 				</header>
         <p>100 Series, mixed regime, NO X-discontinuity</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" class="button">More Models</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank" class="button special">More Models</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +63,7 @@ show_tile: false
 				</header>
 	<p>Hefesto series, sinking regime, NO X-discontinuity.</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" class="button">More Models</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank" class="button special">More Models</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +79,7 @@ show_tile: false
 				</header>
 				<p>Aoki Series, mixed regime, X-discontinuity (see discoloration in basaltic material)</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" class="button">More Models</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank" class="button special">More Models</a></li>
 				</ul>
 			</div>
 		</div>
@@ -96,7 +95,7 @@ show_tile: false
 				</header>
 				<p>300 K excess temperature, 12% excess plume basalt, mantle composition: 18% basalt, 82% harzburgite</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" class="button">More Models</a></li>
+					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank" class="button special">More Models</a></li>
 				</ul>
 			<!-- </div>
 		</div>
