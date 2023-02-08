@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Publications
-description: PAPERS & TALKS
+description: PAPERS, CONFERENCE PAPERS & TALKS
 image: assets/images/convview.jpg
 nav-menu: true
 ---
@@ -90,6 +90,7 @@ These results also provide a viable mechanism to explain the regional appearance
         
 				<ul class="actions">
 					<li><a href="https://drive.google.com/file/d/1CMh_J2Eb10UeTTrgmdtpXKqNuLxqX0-e/view?usp=sharing" target = "_blank" class="button special">View Poster</a></li>
+					<li><a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/conference-booklet.pdf" target="_blank" class="button special">Cite</a></li>
 				</ul>
 			</div>
 		</div>
@@ -117,6 +118,7 @@ Our models show how larger fractions of basaltic material than previously though
 				
 				<ul class="actions">
 					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" target="_blank" class="button special">View Poster</a></li>
+					<li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C1fAD8cAAAAJ&citation_for_view=C1fAD8cAAAAJ:u5HHmVD_uO8C" target ="_blank" class = "button special">Cite</a></li>
 				</ul>
 			</div>
 		</div>
