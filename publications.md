@@ -22,7 +22,7 @@ nav-menu: true
 		<div class = "row">
 				<ul class="alt">
 					<li><h4>Cite this preprint</h4></li>
-					<li><h4>View the data package</h4></li>
+					<li><h4>View supplementary data package</h4></li>
 				</ul>
 			<div class="6u$ 12u$(small)">
 				<ul class="actions vertical">
