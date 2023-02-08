@@ -27,7 +27,7 @@ nav-menu: true
 				</ul>
 			</div>
 			<div class = "6u$ 12u$(small)">
-				<ul class="actions">
+				<ul class="actions vertical">
 					<li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button special">Preprint</a></li>
 					<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" target="_blank" class="button">Supplementary Material</a></li>
 				</ul>
