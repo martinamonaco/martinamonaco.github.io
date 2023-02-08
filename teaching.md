@@ -24,7 +24,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Outreach</h2>
 		</header>
-		<p><br>"A Scientist in Every Florida School" (or SEFS) is an outreach initiative intended to promote science in public schools across the state of Florida. PhD candidates, college professors, and researchers in STEM joined their efforts offering free science lectures.<br> As a firm believer in equal opportunities and inclusivity, my classes are offered (and will always be) in English and Spanish. <b> My teaching material is aligned with the Earth's Science topics requested at the SSA (Statewide Science Assessment) of the State of Florida</b></p>
+		<p><br>"A Scientist in Every Florida School" (or SEFS) is an outreach initiative intended to promote science in public schools across the state of Florida. PhD candidates, college professors, and researchers in STEM joined their efforts offering free science lectures.<br> As a firm believer in equal opportunities and inclusivity, my classes are offered (and will always be) in English and Spanish. <b> My teaching material is aligned with the Earth's Science topics requested at the SSA (Statewide Science Assessment) of the State of Florida.</b></p>
 	</div>
 </section>
 
@@ -48,4 +48,3 @@ nav-menu: true
 		</div>
 
 	</section>
--->
