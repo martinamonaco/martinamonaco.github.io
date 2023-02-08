@@ -32,7 +32,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -44,7 +44,6 @@ nav-menu: true
 				<p><iframe src="assets/images/SEFS_Pres.pdf" width="100%" height="500px"></iframe></p>
 				<p><iframe src="assets/images/SEFS_Pres_ESP.pdf" width="100%" height="500px"> </iframe></p>
 			</div>
-  
 		</div>
-
 	</section>
+</section>
