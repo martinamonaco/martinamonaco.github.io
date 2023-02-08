@@ -32,13 +32,17 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<div class="content">
+			<div class="inner">
 				<header class="major">
 					<h3>Mantle Convection and Plate Tectonics (La Convección en el Manto de la Tierra y las Placas Tectónicas</h3>
 				</header>
     <p><b>Class themes</b>: the layers of the Earth, silicate minerals and their importance in the crust and mantle, basics of seismic discontinuities, basics of tectonic plates, mantle convection, basics of the Earth's core, continental drift vs theory of the tectonic plates, plate margins. Contains pop quizzes & class questions. </p>
 <p><b>Temas de la clase</b>: las capas de la tierra, los minerales silicatos y su importancia en la corteza y manto, conceptos básicos sobra las discontinuidades sísmicas, conceptos básicos sobre las placas tectónicas, convección en el manto, conceptos básicos sobre el núcleo de la Tierra, deriva continents vs teoria de las placas tectónicas, límites de placa. Contiene pop quiz y preguntas para el salón.</p>
+			</div>
+			<div class="inner">
 				<p><iframe src="assets/images/SEFS_Pres.pdf" width="100%" height="500px"></iframe></p>
 				<p><iframe src="assets/images/SEFS_Pres_ESP.pdf" width="100%" height="500px"> </iframe></p>
+			</div>
 		</div>
 	</section>
 </section>
