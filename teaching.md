@@ -13,9 +13,18 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Statement</h2>
+			<h2>Teaching Assistantship at UF</h2>
 		</header>
-		<p><br>I am currently <i>not</i> scheduled as a TA for the upcoming Spring 2022 semester. Students are nonetheless welcome to address their inquiries via email or stop by Room 253, Williamson Hall.</p>
+		<p><br>I am currently <i>not</i> scheduled as a TA for the Fall 2022 semester. Students are nonetheless welcome to address their inquiries via email or stop by Room 253, Williamson Hall.</p>
+	</div>
+</section>
+	
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Outreach</h2>
+		</header>
+		<p><br>"A Scientist in Every Florida School" (or SEFS) is an outreach initiative intended to promote science in public schools across the state of Florida. PhD candidates, college professors, and researchers in STEM joined their efforts offering free science lectures.<br> As a firm believer in equal opportunities and inclusivity, my classes are offered (and will always be) in English and Spanish. <b> My teaching material is aligned with the Earth's Science topics requested at the SSA (Statewide Science Assessment) of the State of Florida</b></p>
 	</div>
 </section>
 
@@ -28,61 +37,15 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Mantle Convection and Plate Tectonics (La Convección en el Manto de la Tierra y las Placas Tectónicas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+    <p><b>Class themes</b>: the layers of the Earth, silicate minerals and their importance in the crust and mantle, basics of seismic discontinuities, basics of tectonic plates, mantle convection, basics of the Earth's core, continental drift vs theory of the tectonic plates, plate margins. Contains pop quizzes & class questions. </p>
+<p><b>Temas de la clase</b>: las capas de la tierra, los minerales silicatos y su importancia en la corteza y manto, conceptos básicos sobra las discontinuidades sísmicas, conceptos básicos sobre las placas tectónicas, convección en el manto, conceptos básicos sobre el núcleo de la Tierra, deriva continents vs teoria de las placas tectónicas, límites de placa. Contiene pop quiz y preguntas para el salón.</p>
+				<p><iframe src="assets/images/SEFS_Pres.pdf" width="100%" height="500px"></iframe></p>
+				<p><iframe src="assets/images/SEFS_Pres_ESP.pdf" width="100%" height="500px"> </iframe></p>
 			</div>
+  
 		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
 
-<!-- Three -->
-<!-- <section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li> 
-		</ul>
-	</div>
-</section>
-
-</div>
+	</section>
 -->
