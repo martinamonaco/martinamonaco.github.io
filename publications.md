@@ -37,7 +37,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://www.agu.org/Fall-Meeting" class="image">
+		<a href="https://www.agu.org/Fall-Meeting" target = "_blank" class="image">
 			<img src="{% link assets/images/new_composite_website.png %}" alt="" data-position="top left" />
 		</a>
 		<div class="content">
@@ -56,15 +56,15 @@ To explore the effect of the entrained basalt on plume dynamics we extend our mo
 Our models suggest that mantle plumes have the potential to accumulate higher percentages of denser material than previously thought. These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
         
 				<ul class="actions">
-					<li><a href="https://scholar.google.com/scholar?cluster=8851633961354511450&hl=en&oi=scholarr" class="button special">Cite</a></li>
-					<li><href="https://drive.google.com/file/d/1hfTBhL2sjZjTCTu5t3njyZA59WBZnpYT/view" class="button special">View Poster</a></li>
+					<li><a href="https://scholar.google.com/scholar?cluster=8851633961354511450&hl=en&oi=scholarr" target = "_blank" class="button special">Cite</a></li>
+					<li><a href="https://drive.google.com/file/d/1hfTBhL2sjZjTCTu5t3njyZA59WBZnpYT/view" target = "_blank" class="button special">View Poster</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 	
-		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" class="image">
+		<a href="https://meetings.copernicus.org/2022AdaLovelaceWorkshop/about/general_information.html" target = "_blank" class="image">
 			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -89,13 +89,13 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 These results also provide a viable mechanism to explain the regional appearance of additional mantle phase transitions like the X-discontinuity.</p>
         
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1CMh_J2Eb10UeTTrgmdtpXKqNuLxqX0-e/view?usp=sharing" class="button special">View Poster</a></li>
+					<li><a href="https://drive.google.com/file/d/1CMh_J2Eb10UeTTrgmdtpXKqNuLxqX0-e/view?usp=sharing" target = "_blank" class="button special">View Poster</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="https://www.agu.org/Fall-Meeting" class="image">
+		<a href="https://www.agu.org/Fall-Meeting" target = "_blank" class="image">
 			<img src="{% link assets/images/agu_2021_png.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -116,13 +116,13 @@ We identify three different regimes. If the viscosity is low, the basaltic heter
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, explaining seismologic detections of the X-discontinuity, and providing insights into how recycled material is carried towards the surface.</p>
 				
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" class="button special">View Poster</a></li>
+					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" target="_blank" class="button special">View Poster</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
   	<section>
-		<a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="image">
+		<a href="https://www.instagram.com/p/CXgf1PpM4DV/" target="_blank" class="image">
 			<img src="{% link assets/images/me_presenting_poster.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -139,7 +139,7 @@ We find that depending on the viscosity of the plume, basaltic material can pond
 Our models show how larger fractions of basaltic material than previously thought possible can accumulate within plumes in the upper mantle, providing an explanation for the observation of the X-discontinuity.</p>
 				
 				<ul class="actions">
-					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" class="button special fit">Author Interview Spotlight</a></li>
+					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" target = "_blank" class="button special fit">Author Interview Spotlight</a></li>
 				</ul>
 			</div>
 		</div>
