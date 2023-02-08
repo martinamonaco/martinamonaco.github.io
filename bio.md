@@ -2,7 +2,7 @@
 layout: landing
 title: Bio
 description: CV
-image: assets/images/biog.jpg
+image: assets/images/poster_agu2022_picture.jpg
 nav-menu: true
 ---
 
