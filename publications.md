@@ -20,18 +20,16 @@ nav-menu: true
 				<br><p></p>
 				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe><br>
 		<div class = "row">
-			<div class="6u$ 12u$(small)">
 				<ul class="alt">
 					<li><h4>Cite this preprint</h4></li>
 					<li><h4>View the data package</h4></li>
 				</ul>
-			
+			<div class="6u$ 12u$(small)">
 				<ul class="actions vertical alt">
 					<li><a href="https://www.authorea.com/doi/full/10.1002/essoar.10512065.1" target="_blank" class="button special">Preprint</a></li>
 					<li><a href="https://zenodo.org/record/6687407#.Ywd3hXbMJPY" target="_blank" class="button">Supplementary Material</a></li>
 				</ul>
 			</div>
-			
 		</div>
 	</div>
 </section>
