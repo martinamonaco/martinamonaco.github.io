@@ -45,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h3>AGU Fall Meeting 2022 — Abstract</h3>
 				</header>
-				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b><br>
+				<p><h4>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in theupper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</h4><br>
 			<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i><br>
     			<i>¹ University of Florida, Gainesville, US </i><br>
 			<i>² University of Cambridge, UK</i>
@@ -72,7 +72,7 @@ Our models suggest that mantle plumes have the potential to accumulate higher pe
 				<header class="major">
 					<h3>Ada Lovelace Workshop 2022 — Abstract</h3>
 				</header>
-				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</b><br>
+				<p><h4>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity in the upper mantle: 2D geodynamic numerical models</h4><br>
 				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i><br>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
@@ -103,7 +103,7 @@ These results also provide a viable mechanism to explain the regional appearance
 				<header class="major">
 					<h3>AGU Fall Meeting 2021 — Abstract</h3>
 				</header>
-				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b><br>
+				<p><h4>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</h4><br>
 				<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹</i><br>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				</p><br>
