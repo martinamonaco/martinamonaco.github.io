@@ -18,7 +18,7 @@ nav-menu: true
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
-				<iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe><br>
+				<p><iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe></p>
 		<div class = "row">
 				<ul class="alt">
 					<li><h4>Cite this preprint</h4></li>
