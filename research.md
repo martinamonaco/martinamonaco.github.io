@@ -22,9 +22,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/poster_agu_2022.png %}" alt="" data-position="top center" />
-		</a>
+		<div class="center">
+			<iframe src="assets/images/agu_2022_poster.pdf" width="100%" height="500px">
+    		</iframe>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
