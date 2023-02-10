@@ -67,7 +67,7 @@ nav-menu: true
 					<h3>AGU Fall Meeting 2021</h3>
 				</header>
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
-				<ul class="actions">
+				<ul class="actions vertical">
 					<li><a href="https://drive.google.com/file/d/1gdzuHdpFa_7GzPHy3Ywqli8GGCXocKmU/view?usp=sharing" target = "_blank" class="button special">View & Download</a></li>
 					<li><a href="https://martinamonaco.github.io/publications.html" class="button special">Learn More</a></li>
 				</ul>
