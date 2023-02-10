@@ -15,7 +15,7 @@ nav-menu: true
 			<h2>Geodynamics Modeling</h2>
 		</header>
 		<p><br>The Earth's mantle is the thickest yet the most enigmatic layer of our planet. Mantle xenoliths and some parts of ophiolites surely are great help, but what about the unfolded huge remainder?</p>
-		<p>We can only rely on two methods to tackle such a complexity and shed a light on the mantle dynamics. One is deep seismology, the other is <i>geodynamics modeling</i>. Find out & download my conference posters below.</p>
+		<p>We can only rely on two methods to tackle such a complexity and shed a light on the mantle dynamics. One is deep seismology, the other is <i>geodynamics modeling</i>. Find out through my conference posters what geodynamics modeling can achieve.</p>
 	</div>
 </section>
 	
