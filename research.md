@@ -22,8 +22,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<iframe src="assets/images/agu_2022_poster.pdf" width="100%" height="500px">
-    		</iframe>
+		<object data="assets/images/agu_2022_poster.pdf" type="application/pdf" width="100%" height="500px">
+		</object>
 		<div class="content">
 			<div class = "inner">
 				<header class="major">
