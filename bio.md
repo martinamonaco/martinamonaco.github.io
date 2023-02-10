@@ -25,4 +25,9 @@ nav-menu: true
 	<div class = "center">
 		<iframe src="assets/images/resume_based.pdf" width="100%" height="500px">
     		</iframe>
+		
+		<ul class= "actions">
+			<li><a href="https://docs.google.com/document/d/1QA_lJrzQbrQBbTA9HJ-Zx5CFE2YmKzwFOtGkBAfsQ6c/edit?usp=sharing" target="_blank" class="button special">Mobile View</a></li>
+		</ul>
+			
 	
