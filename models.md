@@ -8,15 +8,6 @@ show_tile: false
 ---
 <!-- Main -->
 <div id="main">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Model Animations</h2>
-		</header>
-	</div>
-</section>
 	
 <!-- Two -->
 <section id="two" class="spotlights">
