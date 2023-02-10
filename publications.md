@@ -38,7 +38,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" target = "_blank" class="image">
-			<img src="{% link assets/images/new_composite_website.png %}" alt="" data-position="top left" />
+			<img src="{% link assets/images/composite_website_new.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
