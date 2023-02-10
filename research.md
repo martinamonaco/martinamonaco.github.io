@@ -52,7 +52,8 @@ nav-menu: true
 	<p>The investigation on the potential for recycled material entrainment in the mid-upper mantle continues with new, whole-plume models</p>
         <p>Follow this link to read and download my new poster!</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1JnLKzS6BncC5xk0uyW9uInLpVN0Skrp9/view?usp=sharing" target = "_blank" class="button">Learn more</a></li>
+					<li><a href="https://drive.google.com/file/d/1KjA6opUvLRN3FugFqUQYOU--PRfqEkei/view?usp=sharing" target = "_blank" class="button special">View & Download</a></li>
+					<li><a href="https://martinamonaco.github.io/publications.html" class="button special">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -69,7 +70,8 @@ nav-menu: true
 				<p><b>The segregation of recycled basaltic material within mantle plumes explains the detection of the X-Discontinuity beneath hotspots: 2D geodynamic simulations</b></p>
         <p>Follow this link to read my poster!</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1f7lb7uAmO3mARIzFwI7azquULaCxReIu/view?usp=sharing" target = "_blank" class="button">Learn more</a></li>
+					<li><a href="https://drive.google.com/file/d/1gdzuHdpFa_7GzPHy3Ywqli8GGCXocKmU/view?usp=sharing" target = "_blank" class="button special">View & Download</a></li>
+					<li><a href="https://martinamonaco.github.io/publications.html" class="button special">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
@@ -85,7 +87,7 @@ nav-menu: true
 				</header>
 				<p>Ever wondered what's to know about the Hawaiian mantle plume and the X-Discontinuity in two minutes? Meet me highlight the main takeaways of my poster and find out!</p>
 				<ul class="actions">
-					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" target= "_blank" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/p/CXgf1PpM4DV/" target= "_blank" class="button special">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -102,7 +104,7 @@ nav-menu: true
 				<p>Plumes aren't your jam? Why not explore a subduction zone then! Find out what I've been doing to model a transect of the Andean Subduction Zone. Don't forget to watch the presentation in <i>animation</i> mode.</p>
 				<p><b>Exploration Geology MSc Thesis, 2020</b></p>
 				<ul class="actions">
-					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" target= "_blank" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/presentation/d/1XeZ62FGWhZXTw_n3-hfBDw5telRN5oFUV5I_3xgu8_M/edit?usp=sharing" target= "_blank" class="button special">Learn More</a></li>
 				</ul>
 			<!-- </div>
 		</div>
