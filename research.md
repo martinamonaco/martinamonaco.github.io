@@ -22,19 +22,17 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<div class="center">
-			<iframe src="assets/images/agu_2022_poster.pdf" width="100%" height="500px">
+		<iframe src="assets/images/agu_2022_poster.pdf" width="100%" height="500px">
     		</iframe>
 		<div class="content">
-			<div class="inner">
+			<div class = "inner">
 				<header class="major">
 					<h3>AGU Fall Meeting 2022</h3>
 				</header>
-				<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity inthe upper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
+			<p><b>Recycled basaltic material in mantle plumes explains the appearance of the X-discontinuity inthe upper mantle beneath the Hawaiian hotspot: 2D geodynamic numerical models</b></p>
 	<p>New findings on the potential for recycled material entrainment in the mid-upper mantle beneath the Hawaiian hotspot</p>
-        <p>Follow this link to read and download my new poster!</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/file/d/1hfTBhL2sjZjTCTu5t3njyZA59WBZnpYT/view?usp=share_link" class="button">Learn more</a></li>
+					<li><a href="https://martinamonaco.github.io/publications.html" class="button special">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
