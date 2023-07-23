@@ -12,13 +12,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Linking Geodynamic Models of Basalt Segregation in Mantle Plumes to the X-Discontinuity Observed Beneath Hotspots — Preprint</h2>
+			<h2>Linking Geodynamic Models of Basalt Segregation in Mantle Plumes to the X-Discontinuity Observed Beneath Hotspots</h2>
 		</header>
 		<i> <b>Martina Monaco¹</b>, Juliane Dannberg¹, Rene Gassmöller¹, Stephen Pugh²</i><br>
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
-		<b>Cite as: <a href "https://doi.org/10.1029/2022JB025036" target="_blank"></b>
+		<b>Cite the peer-reviewed version as: <a href="https://doi.org/10.1029/2022JB025036">doi.org/10.1029/2022JB025036</a> or read the open-access version below.</b>
+			
 				<p><iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe></p>
 		<div class = "row">
 				<ul class="alt">
