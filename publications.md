@@ -18,7 +18,7 @@ nav-menu: true
     				<i>¹ University of Florida, Gainesville, US </i><br>
 				<i>² University of Cambridge, UK</i>
 				<br><p></p>
-		<b>Cite the peer-reviewed version as: <a href="https://doi.org/10.1029/2022JB025036">doi.org/10.1029/2022JB025036</a> or read the open-access version below.</b>
+		<b>Cite the peer-reviewed version as: <a href="https://doi.org/10.1029/2022JB025036">doi.org/10.1029/2022JB025036</a> or read the open-access version below.</b><br><br>
 			
 				<p><iframe src="assets/images/essoar.10512065.1.pdf" width="100%" height="500px"> </iframe></p>
 		<div class = "row">
