@@ -25,7 +25,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two">
 	<div class = "center">
-		<iframe src="assets/images/CV_Website_Summer_2023.pdf" width="100%" height="500px">
+		<iframe src="assets/images/CV_Monaco.pdf" width="100%" height="500px">
     		</iframe>
 		
 			
