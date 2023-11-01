@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Teaching Assistantship at UF</h2>
 		</header>
-		<p><br>I am currently acting TA to GLY1102 for Summer A, 2023. Students are nonetheless welcome to address their inquiries via email or stop by Room 253, Williamson Hall.</p>
+		<p><br>I am currently acting TA to ESC1000 (Introduction to Earth Sciences — Classroom) for the Fall 2023. Students are welcome to address their inquiries and schedule appointments via email (Canvas) or stop by Room 253, Williamson Hall.</p>
 	</div>
 </section>
 	
