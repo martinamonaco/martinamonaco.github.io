@@ -15,8 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Martina Monaco, MSc</h2>
 		</header>
-		<p><br>Geophysics, PhD Research Fellow at the University of Florida.</p>
-		<p>Highly skilled Geologist and Geodynamist, proficient in programming for scientific applications: Python, basic C++, Github, basic HTML. Valuable both individually and in collaborative projects, I am a creative thinker, committed to finding original and quick solutions. My research work & experience provide me with transversal know-hows and versatility.</p>
+		<p><br>Geophysics PhD Candidate at the University of Florida.</p>
 		<ul class= "actions vertical">
 			<li><a href="https://docs.google.com/document/d/1QA_lJrzQbrQBbTA9HJ-Zx5CFE2YmKzwFOtGkBAfsQ6c/edit?usp=sharing" target="_blank" class="button special">Mobile View</a></li>
 		</ul>
