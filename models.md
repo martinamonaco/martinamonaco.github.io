@@ -13,7 +13,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/m1_gif.gif %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/5e18_100_12_300.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -22,7 +22,7 @@ show_tile: false
 				</header>
 	<p>5e18 Pa s viscosity, 200 km plume diameter, 20% basalt, 300K excess temperature.</p>
 				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank"			
+					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank"</a>			
 					<h3>Segregation Models</h3>
 				</header>
 	<p>100 series, sinking regime, NO X-discontinuity.</p>
