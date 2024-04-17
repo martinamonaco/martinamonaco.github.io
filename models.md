@@ -27,6 +27,7 @@ show_tile: false
 			</div>
 		</div>
 	</section>
+	<section>
 					<h3>Segregation Models</h3>
 				</header>
 	<p>100 series, sinking regime, NO X-discontinuity.</p>
