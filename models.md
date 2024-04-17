@@ -52,6 +52,32 @@ show_tile: false
 	</section>
 	<section>
 		<a href="" class="image">
+			<img src="{% link assets/images/150_16.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Recycled Basaltic Material</h3>
+				</header>
+	<p>1e19 Pa s viscosity, 300 km plume diameter, 15% basalt, 300K excess temperature.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/150_24.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Recycled Basaltic Material</h3>
+				</header>
+	<p>1e19 Pa s viscosity, 300 km plume diameter, 10% basalt, 300K excess temperature.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="" class="image">
 			<img src="{% link assets/images/5e18_250_100_24.gif %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
