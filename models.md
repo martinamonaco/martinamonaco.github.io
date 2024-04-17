@@ -21,9 +21,6 @@ show_tile: false
 					<h3>Recycled Basaltic Material</h3>
 				</header>
 	<p>5e18 Pa s viscosity, 200 km plume diameter, 20% basalt, 300K excess temperature.</p>
-				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank"class="button special">More Models</a></li>
-					</ul>
 			</div>
 		</div>
 	</section>
