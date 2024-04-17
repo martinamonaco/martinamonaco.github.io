@@ -63,20 +63,6 @@ show_tile: false
 			</div>
 		</div>
 	</section>
-
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">			
-					<h3>Segregation Models</h3>
-				</header>
-	<p>100 series, sinking regime, NO X-discontinuity.</p>
-				<ul class="actions">
-					<li><a href="https://drive.google.com/drive/folders/1CEBt91yzuoUZN8TR5NqrnqNlgX6YftWV?usp=sharing" target="_blank" class="button special">More Models</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<section>
 		<a href="https://www.agu.org/Fall-Meeting" class="image">
 			<img src="{% link assets/images/m2_gif.gif %}" alt="" data-position="top center" />
