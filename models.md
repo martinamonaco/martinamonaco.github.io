@@ -25,6 +25,19 @@ show_tile: false
 		</div>
 	</section>
 	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/5e18_100_16.gif %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Recycled Basaltic Material</h3>
+				</header>
+	<p>5e18 Pa s viscosity, 200 km plume diameter, 15% basalt, 300K excess temperature.</p>
+			</div>
+		</div>
+	</section>
+	<section>
 					<h3>Segregation Models</h3>
 				</header>
 	<p>100 series, sinking regime, NO X-discontinuity.</p>
